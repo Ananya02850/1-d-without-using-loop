@@ -1,0 +1,11 @@
+#include<stdio.h>
+int main()
+{
+   int a[5]={10,20,30,50,90};
+   int i;
+     printf("%d ", a[0]);
+     printf("%d ", a[3]);
+     printf("%d ", a[4]);
+     printf("%d ", a[1]);
+     printf("%d ", a[2]);
+ }
